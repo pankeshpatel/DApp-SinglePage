@@ -1,6 +1,16 @@
-# DApp-SinglePage
-This is repository of  Blockchain Application.
+### DApp-SinglePage ###
+This repository contains a Blockchain-based Web application. The objective of this repository contains necessary boilerplate code to implement any  Blockchain-based web application. This would speed-up  developers' application developers effort.
 
+### Technologies ###
+
+- Ethereum, ReactJS, Solidity, Web.js framework, Rinkby Test Network, Infura
+
+
+### installation ###
+
+- Clone this repository
+- `npm install` to install necessary dependencies, listed in `package.json`
+- `node compile.js` to compile the solidity contract
 
 ### Directory Structure ###
 
