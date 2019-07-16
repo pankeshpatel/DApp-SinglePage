@@ -19,3 +19,6 @@ This repository contains a Blockchain-based Web application. The objective of th
 - `compile.js` file compiles the smart contract
 - `deploy.js` file deploys the smart contract on Rinkby Network.
 -  `package.json` file list the dependencies of the project.
+
+
+### Traditional vs Ethereum Web application Architecture ###
