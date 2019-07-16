@@ -25,12 +25,12 @@ This repository contains a Blockchain-based Web application. The objective of th
 
 <p align="center">
 <a href=""target="_blank">
-<img src="https://github.com/pankeshpatel/DApp-SinglePage/blob/master/resources/Traditional-Web-Architecture.PNG" alt="Traditional Web Application Architecture" width="500" height="280" border="10" />
+<img src="https://github.com/pankeshpatel/DApp-SinglePage/blob/master/resources/Traditional-Web-Architecture.PNG" alt="Traditional Web Application Architecture" width="600" height="280" border="10" />
 </a>
 </p>
 
 <p align="center">
 <a href=""target="_blank">
-<img src="https://github.com/pankeshpatel/DApp-SinglePage/blob/master/resources/ethereum-architecture.PNG" alt="Ethereum-based Web Application Architecture" width="500" height="280" border="10" />
+<img src="https://github.com/pankeshpatel/DApp-SinglePage/blob/master/resources/ethereum-architecture.PNG" alt="Ethereum-based Web Application Architecture" width="600" height="280" border="10" />
 </a>
 </p>
