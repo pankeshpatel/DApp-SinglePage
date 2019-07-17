@@ -4,6 +4,7 @@ This repository contains a Blockchain-based Web application. The objective of th
 ### Technologies ###
 
 - Ethereum, ReactJS, Solidity, Web.js framework, Rinkby Test Network, Infura
+- Atom IDE is recommended due to Syntax highlighting packages for Solidity.
 
 
 ### installation ###
