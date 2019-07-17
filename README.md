@@ -11,6 +11,8 @@ This repository contains a Blockchain-based Web application. The objective of th
 - Clone this repository
 - `npm install` to install necessary dependencies, listed in `package.json`
 - `node compile.js` to compile the solidity contract
+- `npm install -g create-react-app` to install dependencies for boilerplate
+-
 
 ### Directory Structure ###
 
@@ -36,4 +38,4 @@ This repository contains a Blockchain-based Web application. The objective of th
 </p>
 
 - Source of images:
-  Udemy course Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider 
+  Udemy course Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider
