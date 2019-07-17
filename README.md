@@ -12,8 +12,11 @@ This repository contains a Blockchain-based Web application. The objective of th
 - Clone this repository
 - `npm install` to install necessary dependencies, listed in `package.json`
 - `node compile.js` to compile the solidity contract
-- `npm install -g create-react-app` to install dependencies for boilerplate
--
+
+### React UI Installtion ###
+- `npm install -g create-react-app` to install dependencies for boilerplate.
+-  `create-react-app <project-name>` to generate ReactJS boilerplate code.
+
 
 ### Directory Structure ###
 
@@ -22,6 +25,7 @@ This repository contains a Blockchain-based Web application. The objective of th
 - `compile.js` file compiles the smart contract
 - `deploy.js` file deploys the smart contract on Rinkby Network.
 -  `package.json` file list the dependencies of the project.
+- `react` directory contains single page UI React code that interact with deployed contract.
 
 
 ### Traditional vs Ethereum Web application Architecture ###
