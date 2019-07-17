@@ -58,5 +58,19 @@ This repository contains a Blockchain-based Web application. The objective of th
 </a>
 </p>
 
+### react/lottery.js file ###
+
+<p align="center">
+<a href=""target="_blank">
+<img src="https://github.com/pankeshpatel/DApp-SinglePage/blob/master/resources/Contract-Interface-Bytecode.PNG" alt="Ethereum-based Web Application Architecture" width="450" height="280" border="10" />
+</a>
+</p>
+
+<p align="center">
+<a href=""target="_blank">
+<img src="https://github.com/pankeshpatel/DApp-SinglePage/blob/master/resources/Contract-interface-ByteCode-Localcopy.PNG" alt="Ethereum-based Web Application Architecture" width="450" height="280" border="10" />
+</a>
+</p>
+
 - Source of images:
-  Udemy course Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider
+  Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider
